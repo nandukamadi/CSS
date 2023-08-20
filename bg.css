@@ -1,0 +1,11 @@
+body{
+	background-image: url('images/bg.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.h1{
+	font-size: 40px;
+	font-family: initial;
+	color:white;
+	padding: 20px;
+}

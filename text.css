@@ -1,0 +1,13 @@
+.dad{
+	text-align: center;
+	color: navy;
+	text-shadow: 2px 2px 3px yellow;
+	font-size: 40px;
+}
+.one{
+	height: 200px;
+	width: 400px;
+	text-align: center;
+	border: 2px solid red;
+	text-transform: capitalize;
+}

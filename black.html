@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="black.css">
+</head>
+<body>
+	<div class="heading">
+		<span id="h1"><</span>                                                   <!- id  h1-->
+		<span id="h2">epam</span>                                                <!- id  h2-->
+		<span id="h1">></span>
+
+	</div>
+	<h1>HTML Elements</h1>                                                <!-id   h3-->
+		<div class="nav" id="home">                                 <!--nav-->
+			<a href="#home">Home</a>&emsp;
+			<a href="#Header">Headers</a>&emsp;
+			<a href="#Table">Table</a>&emsp;
+			<a href="#Lists">List</a>&emsp;
+			<a href="#text">Text formats</a>&emsp;
+			<a href="#Block">Blockquotes</a>&emsp;
+		</div>
+		<p>Pay attention to hi tag inside section element. Font-size for hi is the same as font-size for h2, because we have to use only one hi on the page, and it is commonly used inside header</p>
+		<div id="Header">
+		<h2>Header 2</h2>
+		<h3>Header 3</h3>
+		<h4>Header 4</h4>
+		<h5>Header 5</h5>
+		<h6>Header 6</h6>
+	</div>
+		<div>
+		<p>Lorem ipsum dolor sit amet, <a href=""> test link</a> adipiscing elit.<b>This is strong</b>. Nullam dignissim convallis est. Quisque aliquam.This is emphasized. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H20. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That's a citation).Underline. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p><br>
+		<p>HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type COPY filename.Dinner's at 5:00pm Let's make that 7. This text has been struck.</p></div>
+		<div id="Table">
+			<h1>Table</h1>
+			<table  class="table" >
+				<tr>
+					<td>Header</td>
+					<td>Header</td>
+					<td>Header</td>
+				</tr>
+				<tr>
+					<td>Lviv</td>
+					<td>Kyiv</td>
+					<td>Kharkiv</td>
+				</tr>
+				<tr>
+					<td>Odessa</td>
+					<td>Zhyomyr</td>
+					<td>Dnipro</td>
+				</tr>
+				<tr>
+					<td>Sumy</td>
+					<td>Chernivtsi</td>
+					<td>Lutsk</td>
+				</tr>
+			</table>
+		</div><br>
+		<div id="Lists">
+			<h1>Unordered List</h1>
+			<ul>
+				<li>list item1</li>
+				<li>list item2<ul >
+				<li type="A">Some nested list item 1</li></ul></li>
+				<li>list item3</li>
+			</ul>
+			<h1>Ordered List</h1>
+			<ol>
+				<li>list item1</li>
+				<li>list item2
+				<ul >
+				<li type="A">Some nested list item 1</li></ul></li>
+				<li>list item3</li>
+
+			</ol>
+		</div>
+		<h2>Definition List</h2>
+		<p><b>defines term1</b><br>description 1</p>
+		<p><b>defines term2</b><br>description 2</p>
+		<label style="color:black;">Details</label><select>
+         <option> HTML</option><br>
+          <option> CSS</option><br>
+           <option> Bootstrap</option><br>
+       </select>
+
+       <div id="text">
+       	<h1> Text formats</h1>
+       	<h3>Article Text</h3>
+       	<h4><b>Article title</b></h4>
+       	<p>Article decription</p>
+       	<h3>Preformatted Text</h3>
+       	<pre>                            Text</pre>
+        <pre>                 in a pre element</pre>
+        <pre>                       is displayed in a fixed-width</pre>
+        <pre>              font,and it preserves</pre>
+        <pre>              both</pre>
+        <pre>           spaces and</pre>
+        <pre>                line breaks</pre>
+       </div>
+       <h2>code</h2>
+       <pre>            .wrapper{</pre>
+       <pre>            display: flex;</pre>
+       <pre>            vertical-align:middle;</pre>
+       <pre>            justify-content:center;</pre>
+       <div id="Block">
+       	<h2>Blockquotes</h2>
+       	<p>Let's keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.</p>
+       	<p>"Ifyou go back a few hundred years, what we take for granted today would seem like magic-being able to talk to people over long distances, to transmit images, flying, accessing vast amounts of data like an oracle. These are all things that would have been considered magic a few hundred years ago. "<a href=""> Elon Musk</a></p>
+       </div>
+       <div class="last">
+       	<label>First name:</label>
+       	<input type="text" name=""><br>
+       	<label> Surname:</label>
+       	<input type="text" name=""><br>
+       	<label>  Email:</label>
+       	<input type="Email" name=""><br>
+       	 <textarea></textarea><br>
+       	 <input type="submit" name=""><br>
+       </div>
+
+</body>
+</html>

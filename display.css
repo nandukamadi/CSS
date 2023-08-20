@@ -1,0 +1,35 @@
+.one{
+	background-color: skyblue;
+	display: inline;
+}
+.two{
+	background-color: palegreen;
+	display:block;
+	font-size: 30px;
+}
+.a{
+	height: 200px;
+	width: 300px;
+	border: 3px solid black;
+	float:left;
+}
+.b{
+	height: 200px;
+	width: 300px;
+	border: 3px solid red;
+	float:left;
+	display:none;
+}
+.c{
+	height: 200px;
+	width: 300px;
+	border: 3px solid black;
+	float:left;
+	visibility: hidden;
+}
+.d{
+	height: 200px;
+	width: 300px;
+	border: 3px solid green;
+	float:left;
+}

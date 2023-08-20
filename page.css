@@ -1,0 +1,204 @@
+.main{
+	height: 850px;
+	width: 1400px;
+	background-color: grey;
+	margin: 10px 10px 10px 10px;
+}
+.a{
+	background-color: whitesmoke;
+}
+.b{
+	background-color: limegreen;
+	color: white;
+	font-size: 15px;
+}
+.c{
+	background-color: skyblue;
+	color: white;
+	font-size: 15px;
+}
+.d{
+	background-color: skyblue;
+	color: white;
+	font-size: 15px;
+}
+.e{
+	background-color: skyblue;
+	color: white;
+	font-size: 15px;
+}
+.f{
+	background-color: tomato;
+	color: white;
+	font-size: 15px;
+}
+*{
+	padding: 1px 5px 5px 5px;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+.g{
+	height: 580px;
+	width: 300px;
+	background-color: whitesmoke;
+	margin-left: 20px;
+	padding: 30px;
+	box-sizing: border-box;
+	float: left;
+}
+p{
+	font-size: 25px;
+	margin: 10px 10px 10px 10px;
+	padding-left: 50px;
+	box-sizing: border-box;
+}
+.pic{
+	font-size: 15px;
+	color: grey;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.box{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: blue;
+	margin-left: 30px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.msg{
+	font-size: 15px;
+	color: skyblue;
+	text-align: center;
+	background-color: white;
+	margin-left: 10px;
+	padding: 10px;
+	border: 2px solid skyblue;
+	box-sizing: border-box;
+}
+.website{
+	font-size: 10px;
+}
+.github{
+	font-size: 10px;
+	margin-left: 0px;
+}
+.twitter{
+	font-size: 10px;
+	margin-left: 0px;
+}
+.insta{
+	font-size: 10px;
+	margin-left: 0px;
+}
+.facebook{
+	font-size: 10px;
+	margin-left: 0px;
+}
+.name{
+	height: 300px;
+	width: 600px;
+	background-color: whitesmoke;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	box-sizing: border-box;
+}
+.one{
+	margin: 20px 20px 20px 20px ;
+	box-sizing: border-box;
+	float: left;
+}
+.oneone{
+	margin-left: 50px;
+	border: 2px solid black;
+	border-radius: 5px;
+	float: right;
+	font-size: 15px;
+}
+.two{
+	margin: 20px 20px 20px 20px ;
+	box-sizing: border-box;
+	float: left;
+}
+.three{
+	margin: 20px 20px 20px 20px ;
+	box-sizing: border-box;
+}
+.four{
+	margin: 20px 20px 20px 20px ;
+	box-sizing: border-box;
+}
+.five{
+	margin: 20px 20px 20px 20px ;
+	box-sizing: border-box;
+}
+h5{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: blue;
+	margin-left: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.graph{
+	height: 400px;
+	width: 600px;
+	background-color: whitesmoke;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+.web{
+	font-size: 15px;
+	padding-top: 20px;
+}
+.mark{
+	font-size: 15px;
+}
+.page{
+	font-size: 15px;
+}
+.mobile{
+	font-size: 15px;
+}
+.API{
+	font-size: 15px;
+}
+.ab{
+	border: 1px solid blue;
+	background-color: blue;
+	margin-left: 5px;
+	margin-right: 150px;
+}
+.bc{
+	border: 1px solid red;
+	background-color: red;
+	margin-left: 5px;
+	margin-right: 200px;
+}
+.cd{
+	border: 1px solid palegreen;
+	background-color: palegreen;
+	margin-left: 5px;
+	margin-right: 120px;
+}
+.de{
+	border: 1px solid yellow;
+	background-color: yellow;
+	margin-left: 5px;
+	margin-right: 300px;
+}
+.ef{
+	border: 1px solid skyblue;
+	background-color: skyblue;
+	margin-left: 5px;
+	margin-right: 250px;
+}

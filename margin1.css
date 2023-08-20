@@ -1,0 +1,30 @@
+.margin{
+	height:400px;
+	width:400px;
+	background: yellow;
+	margin-top:50px;
+	margin-right:80px;
+	margin-bottom:50px;
+	margin-left:10px;
+	float: left;
+}
+.anki{
+	height:250px;
+	width:500px;
+	background: blue;
+	margin-top:60px;
+	margin-right:40px;
+	margin-bottom:50px;
+	margin-left:10px;
+	float: left;
+}
+.bhuvana{
+	height:300px;
+	width:400px;
+	background: green;
+	margin-top:60px;
+	margin-right:0px;
+	margin-bottom:50px;
+	margin-left:0px;
+	float: right;
+}

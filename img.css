@@ -1,0 +1,10 @@
+.rectangle{
+	height:140px;
+	width:400px;
+	background-color: darksalmon;
+	color:white;
+	font-size: 40px;
+	padding-top:80px;
+	border-color: red;
+	outline:15px dotted red;
+}

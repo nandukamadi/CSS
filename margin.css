@@ -1,0 +1,11 @@
+.margin{
+	margin:50px;
+	border: 2px solid red;
+	background-color: yellow;
+}
+.anki{
+	font-size: 40px;
+	font-family: initial;
+	border:2px solid green;
+	margin:10px 15px 20px 30px;
+}

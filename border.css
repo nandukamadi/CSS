@@ -1,0 +1,13 @@
+.border{
+	background-color: white;
+	height:100px;
+	width:550px;
+	margin:100px;
+	padding-top:40px;
+	color:black;
+	font-size: 40px;
+	font-family: initial;
+	outline: 10px dashed brown ;
+	box-shadow:0 0 0 10px darkturquoise;
+
+}
